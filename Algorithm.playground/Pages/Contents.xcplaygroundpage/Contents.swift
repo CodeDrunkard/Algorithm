@@ -9,7 +9,7 @@
  
  ### Queue
  
- * [Stack]
+ * [Stack](Stack)
  
  * [Enum Stack]
  
