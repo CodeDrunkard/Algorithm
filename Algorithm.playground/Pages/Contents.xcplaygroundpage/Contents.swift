@@ -11,7 +11,7 @@
  
  * [Stack](Stack)
  
- * [Enum Stack]
+ * [Enum Stack](EnumStack)
  
  * [Queue]
  
