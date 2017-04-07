@@ -89,9 +89,9 @@
  
  ### Searching
  
- * [Linear Search]
+ * [Linear Search](LinearSearch)
  
- * [Binary Search]
+ * [Binary Search](BinarySearch)
  
  * [Count Occurrences]
  
