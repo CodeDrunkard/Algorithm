@@ -13,7 +13,7 @@
  
  * [Enum Stack](EnumStack)
  
- * [Queue]
+ * [Queue](Queue)
  
  * [Deque]
  
