@@ -93,7 +93,7 @@
  
  * [Binary Search](BinarySearch)
  
- * [Count Occurrences]
+ * [Count Occurrences](CountOccurrences)
  
  * [Select Minimum/Maximum]
  

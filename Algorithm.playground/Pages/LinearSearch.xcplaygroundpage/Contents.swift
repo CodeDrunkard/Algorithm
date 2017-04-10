@@ -3,8 +3,8 @@
  
  Performance: O(n)
  */
-public func linearSearch<T: Equatable>(_ array: [T], search object: T) -> Int?{
-    for (index, obj) in array.enumerated() where obj == object {
+public func linearSearch<T: Equatable>(in array: [T], forKey key: T) -> Int?{
+    for (index, obj) in array.enumerated() where obj == key {
         return index
     }
     return nil
@@ -12,6 +12,6 @@ public func linearSearch<T: Equatable>(_ array: [T], search object: T) -> Int?{
 
 //: TEST
 let array = [2, 3, 4, 5, 6]
-linearSearch(array, search: 3)
-linearSearch(array, search: 0)
+linearSearch(in: array, forKey: 3)
+linearSearch(in: array, forKey: 0)
 //: [Contents](Contents) | [Previous](@previous) | [Next](@next)
