@@ -15,7 +15,7 @@
  
  * [Queue](Queue)
  
- * [Deque]
+ * [Deque](Deque)
  
  * [Priority Queue]
  

@@ -2,6 +2,7 @@
  Queue
  
  Note1: Setting array[head] to nil to remove lead object from the queue, because delete the first object must edit other objects, it doesn't make sense.
+ 
  Note2: If never remove Note1's empty spots that will keep growing as enqueue and dequeue. So it must be removed in some time that you can custom.
  
  Enqueuing and dequeuing are O(1) operations.
