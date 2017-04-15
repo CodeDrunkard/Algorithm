@@ -23,7 +23,7 @@
  
  ### Lists
  
- * [Linked List]
+ * [Linked List](LinkedList)
  
  * [Skip-List]
  
