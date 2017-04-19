@@ -6,6 +6,7 @@
         <page name='EnumStack'/>
         <page name='Queue'/>
         <page name='Deque'/>
+        <page name='PriorityQueue'/>
         <page name='LinkedList'/>
         <page name='LinearSearch'/>
         <page name='BinarySearch'/>

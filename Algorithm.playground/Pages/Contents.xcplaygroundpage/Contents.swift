@@ -17,7 +17,7 @@
  
  * [Deque](Deque)
  
- * [Priority Queue]
+ * [Priority Queue](PriorityQueue)
  
  * [Ring Buffer]
  
