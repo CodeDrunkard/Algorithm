@@ -29,7 +29,7 @@
  
  ### Trees
  
- * [Tree]
+ * [Tree](Tree)
  
  * [Binary Tree]
  
