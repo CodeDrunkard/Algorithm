@@ -119,7 +119,7 @@
  
  ### Sorting
  
- * [Insertion Sort]
+ * [Insertion Sort](InsertionSort)
  
  * [Selection Sort]
  
