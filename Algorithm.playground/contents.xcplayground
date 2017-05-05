@@ -9,6 +9,7 @@
         <page name='PriorityQueue'/>
         <page name='LinkedList'/>
         <page name='Tree'/>
+        <page name='BinaryTree'/>
         <page name='LinearSearch'/>
         <page name='BinarySearch'/>
         <page name='CountOccurrences'/>

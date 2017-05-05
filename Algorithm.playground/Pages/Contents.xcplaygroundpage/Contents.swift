@@ -31,7 +31,7 @@
  
  * [Tree](Tree)
  
- * [Binary Tree]
+ * [Binary Tree](BinaryTree)
  
  * [Binary Search Tree]
  
