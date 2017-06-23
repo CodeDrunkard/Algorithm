@@ -18,7 +18,7 @@ func insertionSort<T>(in array: [T], order: (T, T) -> Bool) -> [T] {
 }
 //: TEST
 var numbers = [ 10, -1, 3, 9, 2, 27, 8, 5, 1, 3, 0, 26 ]
-numbers = insertionSort(in: numbers, order: <)
+numbers = insertionSort(in: numbers, order: >)
 numbers
 
 var strings = [ "b", "a", "d", "c", "e" ]

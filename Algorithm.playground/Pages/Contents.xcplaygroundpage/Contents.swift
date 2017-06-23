@@ -121,7 +121,7 @@
  
  * [Insertion Sort](InsertionSort)
  
- * [Selection Sort]
+ * [Selection Sort](SelectionSort)
  
  * [Shell Sort]
  
