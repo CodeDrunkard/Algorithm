@@ -15,6 +15,7 @@
         <page name='CountOccurrences'/>
         <page name='InsertionSort'/>
         <page name='SelectionSort'/>
+        <page name='ShellSort'/>
         <page name='Untitled Page'/>
     </pages>
 </playground>

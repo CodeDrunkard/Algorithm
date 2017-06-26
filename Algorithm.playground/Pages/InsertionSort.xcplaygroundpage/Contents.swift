@@ -1,7 +1,7 @@
 /*:
  Insertion Sort
  */
-func insertionSort<T>(in array: [T], order: (T, T) -> Bool) -> [T] {
+func insertionSort<T>(in array: [T], order: (T, T) -> Bool) -> [T] where T: Comparable  {
     var arr = array
     if arr.count > 1 {
         for idx in 1..<arr.count {

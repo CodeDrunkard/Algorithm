@@ -123,7 +123,7 @@
  
  * [Selection Sort](SelectionSort)
  
- * [Shell Sort]
+ * [Shell Sort](ShellSort)
  
  * [Quicksort]
  

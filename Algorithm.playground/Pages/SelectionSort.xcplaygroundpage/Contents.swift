@@ -1,7 +1,7 @@
 /*:
  Selected Sort
  */
-func selectedSort<T>(in array: [T], order: (T, T) -> Bool) -> [T] {
+func selectedSort<T>(in array: [T], order: (T, T) -> Bool) -> [T] where T: Comparable  {
     var arr = array
     if arr.count > 1 {
         for index in 0..<arr.count - 1 {
