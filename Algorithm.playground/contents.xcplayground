@@ -10,6 +10,7 @@
         <page name='LinkedList'/>
         <page name='Tree'/>
         <page name='BinaryTree'/>
+        <page name='BinarySearchTree'/>
         <page name='LinearSearch'/>
         <page name='BinarySearch'/>
         <page name='CountOccurrences'/>

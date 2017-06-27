@@ -33,7 +33,7 @@
  
  * [Binary Tree](BinaryTree)
  
- * [Binary Search Tree]
+ * [Binary Search Tree](BinarySearchTree)
  
  * [Red-Black Tree]
  
