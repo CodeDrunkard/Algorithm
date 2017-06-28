@@ -127,7 +127,7 @@
  
  * [Quicksort](QuickSort)
  
- * [Merge Sort]
+ * [Merge Sort](MergeSort)
  
  * [Heap Sort]
  
