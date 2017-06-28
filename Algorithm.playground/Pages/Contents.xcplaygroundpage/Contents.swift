@@ -125,7 +125,7 @@
  
  * [Shell Sort](ShellSort)
  
- * [Quicksort]
+ * [Quicksort](QuickSort)
  
  * [Merge Sort]
  
