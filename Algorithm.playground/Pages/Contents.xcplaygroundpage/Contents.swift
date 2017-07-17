@@ -105,7 +105,7 @@
  
  ### String Search
  
- * [Brute-Force]
+ * [Brute-Force](BruteForce)
  
  * [Boyer-Moore]
  

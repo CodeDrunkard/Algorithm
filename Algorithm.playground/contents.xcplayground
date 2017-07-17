@@ -19,6 +19,7 @@
         <page name='ShellSort'/>
         <page name='QuickSort'/>
         <page name='MergeSort'/>
+        <page name='BruteForce'/>
         <page name='Untitled Page'/>
     </pages>
 </playground>
